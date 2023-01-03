@@ -1,8 +1,5 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" group-title="Varios" tvg-id="M+ #0 HD", [ ESP] #0
-acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
-
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="Varios" tvg-id="#Vamos - 1080", [ ESP] #Vamos - 1080
 acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 
