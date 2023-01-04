@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN LaLigaHD", [ ESP] DAZN LaLiga - 1080
-https://list.iptvcat.com/my_list/s/67af7b8cbee0b05aceaa260cccb27d85.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" group-title="Varios" tvg-id="M+ #0 HD", [ ESP] #0
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 
@@ -295,7 +292,7 @@ acestream://8d065adeb9603cb93a080930a45eb5bd457483c6
 acestream://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/d2212bf5-0999-4b88-a137-e70f998eeada/402020668010211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios " tvg-id="beIN Sport ñ", [USA] beIN SPORT ñ
-acestream://52d37ff3be2cbbaba92fb0da2abf7c9c4c4568ca
+acestream://4853a0bd4fd17f85f563267feb6aec3319a3ac1d
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/3890e6d3-e4fc-495a-8026-430c6920f0e7/402020467013211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios " tvg-id="NBA TV", [USA] NBA TV
 Acestream://6ba718a6f5a638e2ae15de6904ea2fa553895856
