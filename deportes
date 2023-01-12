@@ -369,3 +369,6 @@ Acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/9a60cffa-8ae4-447c-aabb-5d803ac67b09/402545934012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios" tvg-id="vacio", [FRA] Bein Sport 1
 Acestream://54cbfaf8ad446499aae28ae50b512d95c263f811
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2022/07/holanda-netherlands-football-team-logo-0.png" group-title="Varios" tvg-id="vacio", [HOL] TV Holanda
+acestream://542065e470fab73ce1b01d2c5a7b19850c102ced
