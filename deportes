@@ -30,7 +30,7 @@ acestream://
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga HD", [ ESP] La Liga - 1080
 acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga HD opcion 2", [ ESP] La Liga - 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga HD opcion 2", [ ESP] La Liga opcion 2 - 1080
 acestream://d47addf5e467cbf102ba759600303c21efb1deeb
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="La Liga - 720", [ ESP] La Liga - 720
@@ -66,8 +66,11 @@ Acestream:/
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN LaLigaHD", [ ESP] DAZN LaLiga - 1080
 acestream://a6b02f69364c973e6a32d63cfb6c887e04c1a028
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN LaLigaHD Opcion 2", [ ESP] DAZN LaLiga Opcion 2 - 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN LaLigaHD Opcion 2", [ ESP] DAZN LaLigaHD Opcion 2 - 1080
 acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN LaLigaHD Opcion 3", [ ESP] DAZN LaLigaHD Opcion 3 - 1080
+acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN La Liga - 720", [ ESP] DAZN LaLiga - 720
 acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
@@ -133,7 +136,7 @@ acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
 acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn03.png" group-title="Dazn" tvg-id="DAZN 3 - 1080", [ ESP] DAZN 3 - 1080
-acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
+acestream://0315c62570061e25cb62ff1d208af5ff3a90c449
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn03.png" group-title="Dazn" tvg-id="DAZN 3 - 720", [ ESP] DAZN 3 - 720
 Acestream://
@@ -265,7 +268,7 @@ Acestream://1c23860f47c37595a322e07b5171098e2a3405b9
 https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn131.picsart.com/4c93980c-4efb-4ae4-af98-3b067b9d68c3/402542448002211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios" tvg-id="vacio", [POR] Eleven Sport 1
-acestream://36cad67fed5a739757a9db844a551aa845a8d51b
+acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/b6518ad8-2b70-4f27-961a-92453fc89c78/402542478022211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios" tvg-id="vacio", [POR] Eleven Sport 2
 acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
@@ -283,10 +286,10 @@ acestream://56bb17b376ec52b5e58679d87ed2bd9e70be2175
 acestream://b815d26ef83581e6af857fa27d6fca48b8552d1f
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/7054415b-859c-46c8-b57f-7b2d29942044/402083874022211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios " tvg-id="Deporte TV 2 - 1080", [POR] Sport TV2 - 1080
-acestream://b402a5fc3d93860c7f4a9c46463ff5469b6436f6
+acestream://a1bd609a2d64d1ee4b81af32464b36848fe36541
 
 #EXTINF:-1 tvg-logo="https://cdn131.picsart.com/1852ace3-a371-4357-85af-b56b4c8ef676/402083899000211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios " tvg-id="Tv deportivo 3 - 1080", [POR] Sport TV3 - 1080
-acestream://3c81c395fc9385c650e0fba8c286935c594f7e1a
+acestream://6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
 
 #EXTINF:-1 tvg-logo="https://cdn131.picsart.com/0e0f1bb3-de7e-4fb2-9090-644b36bcd095/402084248030211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios " tvg-id="ESPN", [URY] ESPN
 acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
@@ -307,7 +310,7 @@ acestream://8d065adeb9603cb93a080930a45eb5bd457483c6
 acestream://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/d2212bf5-0999-4b88-a137-e70f998eeada/402020668010211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios " tvg-id="beIN Sport ñ", [USA] beIN SPORT ñ
-acestream://4853a0bd4fd17f85f563267feb6aec3319a3ac1d
+acestream://c0f38f2a4b891db823edb45e64f1191655526e5e
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/3890e6d3-e4fc-495a-8026-430c6920f0e7/402020467013211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios " tvg-id="NBA TV", [USA] NBA TV
 Acestream://6ba718a6f5a638e2ae15de6904ea2fa553895856
@@ -368,7 +371,7 @@ Acestream://3e87464ed8c42ed14464461ea08860a3040a8944
 Acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/9a60cffa-8ae4-447c-aabb-5d803ac67b09/402545934012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios" tvg-id="vacio", [FRA] Bein Sport 1
-Acestream://54cbfaf8ad446499aae28ae50b512d95c263f811
+acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2022/07/holanda-netherlands-football-team-logo-0.png" group-title="Varios" tvg-id="vacio", [HOL] TV Holanda
 acestream://542065e470fab73ce1b01d2c5a7b19850c102ced
