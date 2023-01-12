@@ -279,6 +279,9 @@ acestream://0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-logo="https://cdn131.picsart.com/2e8d0c66-80f2-4e6f-9386-ebe49a79fd6d/402083847016211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios " tvg-id="Tv deportivo 1 - 1080", [POR] Sport TV1 - 1080
 acestream://56bb17b376ec52b5e58679d87ed2bd9e70be2175
 
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/2e8d0c66-80f2-4e6f-9386-ebe49a79fd6d/402083847016211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios " tvg-id="Tv deportivo 1 (2) - 1080", [POR] Sport TV1 (2) - 1080
+acestream://b815d26ef83581e6af857fa27d6fca48b8552d1f
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/7054415b-859c-46c8-b57f-7b2d29942044/402083874022211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios " tvg-id="Deporte TV 2 - 1080", [POR] Sport TV2 - 1080
 acestream://b402a5fc3d93860c7f4a9c46463ff5469b6436f6
 
@@ -339,7 +342,8 @@ Acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/ff0aacfd-d99b-45c1-a156-97ffc8a9491c/402544404006211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios" tvg-id="vacio", [ENG] Sky Sports Maint Event
 Acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznbar01.png" group-title="Varios" tvg-id="vacio", [DEU] DAZN 1 Bar
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/
+bar01.png" group-title="Varios" tvg-id="vacio", [DEU] DAZN 1 Bar
 Acestream://897e73c9d578848f596585314ecb9ae067c0e229
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznbar02.png" group-title="Varios" tvg-id="vacio", [DEU] DAZN 2 Bar
