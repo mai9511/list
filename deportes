@@ -376,6 +376,9 @@ Acestream://3e87464ed8c42ed14464461ea08860a3040a8944
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/798b6224-9cb4-42ee-9f4d-3c966a311c1a/402545229009211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios" tvg-id="vacio", [RUS] Матч! Премьер HD
 Acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
 
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/798b6224-9cb4-42ee-9f4d-3c966a311c1a/402545229009211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios" tvg-id="vacio", [RUS] Матч! Премьер HD (2)
+Acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/9a60cffa-8ae4-447c-aabb-5d803ac67b09/402545934012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios" tvg-id="vacio", [FRA] Bein Sport 1
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 
