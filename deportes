@@ -81,6 +81,9 @@ Acestream://
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="Champions" tvg-id="Liga de Campeones - 1080", [ ESP] Liga de Campeones - 1080
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="Champions" tvg-id="Liga de Campeones - 1080 (2)", [ ESP] Liga de Campeones - 1080 (2)
+acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="Champions" tvg-id="Liga de Campeones - 720", [ ESP] Liga de campeones - 720
 acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
 
@@ -99,6 +102,9 @@ acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc4.png" group-title="Champions" tvg-id="Liga de Campeones 4 - 720", [ ESP] Liga de Campeones 04 - 720
 acestream://1a1b528109edead1904e3dbff575637a452dd1fa
 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc4.png" group-title="Champions" tvg-id="Liga de Campeones 4 - 720 (2)", [ ESP] Liga de Campeones 04 - 720 (2)
+acestream://5ee761c263f15644110401be6a4182a6f1934808
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc5.png" group-title="Champions" tvg-id="Liga de Campeones 5 - 720", [ ESP] Liga de Campeones 05 - 720
 acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d
 
@@ -106,7 +112,7 @@ acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d
 acestream://e9950ec551124c490ecbc2526a83d2c5a4516293
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc7.png" group-title="Champions" tvg-id="Liga de Campeones 7 - 720", [ ESP] Liga de Campeones 07 - 720
-acestream://8ab70e161ad1d9a3ed76db91b84b2ae55e16103f
+acestream://d84a90adb6998083403f610ab3fae340b5711b1e
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc8.png" group-title="Campeones" tvg-id="Liga de Campeones 8 - 720", [ ESP] Liga de Campeones 08 - 720
 acestream://fdd9e3660059051660dbd7857443c2b807f258d0
