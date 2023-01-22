@@ -9,18 +9,6 @@ acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="Varios" tvg-id="#Vamos - 720", [ ESP] #Vamos - 720
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/supercopaespana2022.png" group-title="Varios" tvg-id="#Supercopa - 1080 Multi", [ ESP] #Supercopa - 1080 Multi
-acestream://8b2c2ef8925b1c659ccd3922390617a98d9ee6e1
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/supercopaespana2022.png" group-title="Varios" tvg-id="#Supercopa - 1080 Multi 2", [ ESP] #Supercopa - 1080 Multi 2
-acestream://c1a176e0165da407199bb9f8fb3acc2aaab2d3d1
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/supercopaespana2022.png" group-title="Varios" tvg-id="#Supercopa - 1080 Multi 3", [ ESP] #Supercopa - 1080 Multi 3
-acestream://95d9967309d74d3dbd87c66cf374666bb9da9f07
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/supercopaespana2022.png" group-title="Varios" tvg-id="#Supercopa - 720 Multi", [ ESP] #Supercopa - 720 Multi
-acestream://a16f0078ccb46ba65aaa175ad823e47ec31ab464
-
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png" group-title="La Liga" tvg-id="La Liga Tv Bar - 1080" , [ ESP] La Liga Tv Bar - 1080
 acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
 
@@ -321,8 +309,11 @@ acestream://c0f38f2a4b891db823edb45e64f1191655526e5e
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/3890e6d3-e4fc-495a-8026-430c6920f0e7/402020467013211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios " tvg-id="NBA TV", [USA] NBA TV
 Acestream://6ba718a6f5a638e2ae15de6904ea2fa553895856
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/redbulltv.png" group-title="Varios" tvg-id="Redbull Tv", [USA] Redbull Tv
-Acestream://9c9bdd6d153309fef289b377f2eadaa5a2a224c4
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="Varios " tvg-id="TUDN", [USA] TUDN
+acestream://958a228fbcdac80a19cd3d88ef402c0e50ccca87
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/redbulltv.png" group-title="Varios" tvg-id="FOX Sport", [USA] FOX Sport
+acestream://c9c062941fbecb16ce29437f346ea7177d720898
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/fight.png" group-title="Varios" tvg-id="Deporte de Lucha", [GLO] Fight Sport
 Acestream://3143ba2254daa432ef9c28cdae6ca188eb2bc29a
@@ -348,6 +339,9 @@ Acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
 #EXTINF:-1 tvg-logo="https://cdn131.picsart.com/5a8d4677-a86e-4749-a0fc-df60b5e94aea/402544227018211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios" tvg-id="vacio", [ENG] Sky Sports Premier League
 Acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/5a8d4677-a86e-4749-a0fc-df60b5e94aea/402544227018211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios" tvg-id="vacio", [ENG] Sky Sports
+acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
+
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/ff0aacfd-d99b-45c1-a156-97ffc8a9491c/402544404006211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios" tvg-id="vacio", [ENG] Sky Sports Maint Event
 Acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
 
@@ -366,6 +360,9 @@ Acestream://d6902382a5cdbf82534d7364fbb5742d51eae602
 
 #EXTINF:-1 tvg-logo="https://cdn131.picsart.com/a2812472-b6fe-408f-9ce7-f5fa732252ed/402545958015211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios" tvg-id="vacio", [POL] Polsat Sport 
 Acestream://92b6ba09dae4bbb8a67a405125d08ca8d15380ee
+
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/a2812472-b6fe-408f-9ce7-f5fa732252ed/402545958015211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios" tvg-id="vacio", [POL] Polsat Sport (2) 
+acestream://d6f0a6377c31f68b1c1c071e0a8f9f105a455867
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/4929c7f5-082c-4920-89e0-c24b305f8f2a/402545313014211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios" tvg-id="vacio", [POL] Canal plus sport 1
 Acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
