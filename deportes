@@ -57,11 +57,12 @@ Acestream:/
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN LaLigaHD", [ ESP] DAZN LaLiga - 1080
 acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN LaLigaHD (2)", [ ESP] DAZN LaLiga - 1080 (2)
+acestream://130ab01972120ad801ddb5b14be52215432f6647
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN La Liga - 720", [ ESP] DAZN LaLiga - 720
 acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll2.png" group-title="Dazn" tvg-id="DAZN La Liga 2 - 1080", [ ESP] DAZN LaLiga 2 - 1080
-Acestream://
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="Champions" tvg-id="Liga de Campeones - 1080", [ ESP] Liga de Campeones - 1080
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
