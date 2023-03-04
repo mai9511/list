@@ -108,10 +108,6 @@ Acestream://
 acestream://149a38e333de920753f1388c43247283bdb05f5b
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn04.png", DAZN 4 - 720
 Acestream://
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png", DAZN F1 - 1080
-acestream://c372020ed2744033f56548b6beb11a9f3e740f37
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png", DAZN F1 - 720
-acestream://5853ff69c8588fe23ff5555261d4a43e6ad2f1ae
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png", M+ Deportes - 1080
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
@@ -193,57 +189,53 @@ Acestream://1c23860f47c37595a322e07b5171098e2a3405b9
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/esport3.png", Esport3
 https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/4c93980c-4efb-4ae4-af98-3b067b9d68c3/402542448002211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios" tvg-id="vacio", [ZPOR] Eleven Sport 1
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/4c93980c-4efb-4ae4-af98-3b067b9d68c3/402542448002211.png?to=crop&type=webp&r=540x405&q=85", Eleven Sport 1
 acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/b6518ad8-2b70-4f27-961a-92453fc89c78/402542478022211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios" tvg-id="vacio", [ZPOR] Eleven Sport 2
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/b6518ad8-2b70-4f27-961a-92453fc89c78/402542478022211.png?to=crop&type=webp&r=540x405&q=85", Eleven Sport 2
 acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/536ed494-c55a-4af1-98ab-a4c77bd4a17f/402542607004211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios" tvg-id="vacio", [ZPOR] Eleven Sport 3
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/536ed494-c55a-4af1-98ab-a4c77bd4a17f/402542607004211.png?to=crop&type=webp&r=540x405&q=85", Eleven Sport 3
 acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/358b6318-a4d8-4df8-87f5-5dbc99dd69af/402542658007211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios" tvg-id="vacio", [ZPOR] Eleven Sport 4
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/358b6318-a4d8-4df8-87f5-5dbc99dd69af/402542658007211.png?to=crop&type=webp&r=540x405&q=85", Eleven Sport 4
 acestream://0f32c0131a2d9444996410801f4e18b04384db98
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/2e8d0c66-80f2-4e6f-9386-ebe49a79fd6d/402083847016211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios " tvg-id="Tv deportivo 1 - 1080", [ZPOR] Sport TV1 - 1080
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/2e8d0c66-80f2-4e6f-9386-ebe49a79fd6d/402083847016211.png?to=crop&type=webp&r=540x405&q=85", Sport TV1 - 1080
 acestream://56bb17b376ec52b5e58679d87ed2bd9e70be2175
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/2e8d0c66-80f2-4e6f-9386-ebe49a79fd6d/402083847016211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios " tvg-id="Tv deportivo 1 (2) - 1080", [ZPOR] Sport TV1 (2) - 1080
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/2e8d0c66-80f2-4e6f-9386-ebe49a79fd6d/402083847016211.png?to=crop&type=webp&r=540x405&q=85", Sport TV1 (2) - 1080
 acestream://b815d26ef83581e6af857fa27d6fca48b8552d1f
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/7054415b-859c-46c8-b57f-7b2d29942044/402083874022211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios " tvg-id="Deporte TV 2 - 1080", [ZPOR] Sport TV2 - 1080
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/7054415b-859c-46c8-b57f-7b2d29942044/402083874022211.png?to=crop&type=webp&r=540x405&q=85", Sport TV2 - 1080
 acestream://a1bd609a2d64d1ee4b81af32464b36848fe36541
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/1852ace3-a371-4357-85af-b56b4c8ef676/402083899000211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios " tvg-id="Tv deportivo 3 - 1080", [ZPOR] Sport TV3 - 1080
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/1852ace3-a371-4357-85af-b56b4c8ef676/402083899000211.png?to=crop&type=webp&r=540x405&q=85", Sport TV3 - 1080
 acestream://6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/1852ace3-a371-4357-85af-b56b4c8ef676/402083899000211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios " tvg-id="Tv deportivo 4 - 1080", [ZPOR] Sport TV4 - 1080
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/1852ace3-a371-4357-85af-b56b4c8ef676/402083899000211.png?to=crop&type=webp&r=540x405&q=85", Sport TV4 - 1080
 acestream://c300ecb07d854c1730b04ea022c3fb0a184d7801
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/0e0f1bb3-de7e-4fb2-9090-644b36bcd095/402084248030211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios " tvg-id="ESPN", [ZURY] ESPN
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/0e0f1bb3-de7e-4fb2-9090-644b36bcd095/402084248030211.png?to=crop&type=webp&r=540x405&q=85", ESPN URU
 acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/a74d7432-b4ed-4afd-a6ae-30861ccb3e18/402084138007211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios " tvg-id="ESPN 2", [ZURY] ESPN 2
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/a74d7432-b4ed-4afd-a6ae-30861ccb3e18/402084138007211.png?to=crop&type=webp&r=540x405&q=85", ESPN URU 2
 acestream://e40b29774fdfd953751a71f5695f647726623b9d
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/a77ba4fd-1d15-428a-a240-b1b42451d744/402084169044211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios " tvg-id="ESPN 3", [ZURY] ESPN 3
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/a77ba4fd-1d15-428a-a240-b1b42451d744/402084169044211.png?to=crop&type=webp&r=540x405&q=85", ESPN URU 3
 acestream://b97f5975dbd067655432512d4693b417bc85a714
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/c3bf34bc-34b8-47a9-a70c-9c98402efc31/402084205036211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios " tvg-id="ESPN Adicional", [ZURY] ESPN XTRA
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/c3bf34bc-34b8-47a9-a70c-9c98402efc31/402084205036211.png?to=crop&type=webp&r=540x405&q=85", ESPN XTRA
 acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/0e0f1bb3-de7e-4fb2-9090-644b36bcd095/402084248030211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios " tvg-id="ESPN", [ZARG] ESPN
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/0e0f1bb3-de7e-4fb2-9090-644b36bcd095/402084248030211.png?to=crop&type=webp&r=540x405&q=85", ESPN ARG
 acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/0e0f1bb3-de7e-4fb2-9090-644b36bcd095/402084248030211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios " tvg-id="ESPN", [ZARG] ESPN 3
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/0e0f1bb3-de7e-4fb2-9090-644b36bcd095/402084248030211.png?to=crop&type=webp&r=540x405&q=85", ESPN ARG 3
 acestream://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/d2212bf5-0999-4b88-a137-e70f998eeada/402020668010211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios " tvg-id="beIN Sport ñ", [ZUSA] beIN SPORT ñ
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/d2212bf5-0999-4b88-a137-e70f998eeada/402020668010211.png?to=crop&type=webp&r=540x405&q=85", beIN SPORT ñ
 acestream://c0f38f2a4b891db823edb45e64f1191655526e5e
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/3890e6d3-e4fc-495a-8026-430c6920f0e7/402020467013211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios " tvg-id="NBA TV", [ZUSA] NBA TV
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/3890e6d3-e4fc-495a-8026-430c6920f0e7/402020467013211.png?to=crop&type=webp&r=540x405&q=85", NBA TV
 Acestream://6ba718a6f5a638e2ae15de6904ea2fa553895856
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="Varios " tvg-id="TUDN", [ZUSA] TUDN
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png", TUDN
 acestream://958a228fbcdac80a19cd3d88ef402c0e50ccca87
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/redbulltv.png" group-title="Varios" tvg-id="FOX Sport", [ZUSA] FOX Sport
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/redbulltv.png", FOX Sport
 acestream://c9c062941fbecb16ce29437f346ea7177d720898
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/fight.png" group-title="Varios" tvg-id="Deporte de Lucha", [ZGLO] Fight Sport
-Acestream://3143ba2254daa432ef9c28cdae6ca188eb2bc29a
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/fightbox.png" group-title="Varios" tvg-id="FightBox", [ZGLO] FightBox
-Acestream://d9e5e213121f3ea7fbcb216b48c306cd935b017a
 
 #EXTINF:-1 tvg-logo="https://cdn131.picsart.com/d4d240bf-af32-4b68-9fc6-900c112dd2ce/402543242002211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios" tvg-id="vacio", [ZENG] BT Sport1
 acestream://ab2b69970c0629bf0fa30dd61b0072adb4ac4d9c
 #EXTINF:-1 tvg-logo="https://cdn131.picsart.com/15397664-5ab9-4477-b1ca-7513e921e3cf/402543219001211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios" tvg-id="vacio", [ZENG] BT Sport2
 acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/9bdbe737-c52b-4b27-b614-8a3bb26396a1/402543277013211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios" tvg-id="vacio", [ZENG] BT Sport3
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/9bdbe737-c52b-4b27-b614-8a3bb26396a1/402543277013211.png?to=crop&type=webp&r=540x405&q=85", BT Sport3
 acestream://5f966c123759de46dff29c379266b7a403452033
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/91d7ea31-229b-421f-911e-f3a4c76718ba/402543851014211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios" tvg-id="vacio", [ZENG] Premier Sports 1
