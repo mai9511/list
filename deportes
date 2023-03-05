@@ -260,10 +260,61 @@ acestream://988f4d88d74ec0d2b3584f6c7e067fcbdb501115
 Acestream://92b6ba09dae4bbb8a67a405125d08ca8d15380ee
 #EXTINF:-1 tvg-logo="https://cdn131.picsart.com/a2812472-b6fe-408f-9ce7-f5fa732252ed/402545958015211.png?to=crop&type=webp&r=540x405&q=85", [POL] Polsat Sport (2) 
 acestream://d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/a2812472-b6fe-408f-9ce7-f5fa732252ed/402545958015211.png?to=crop&type=webp&r=540x405&q=85", [POL] TVP Sport 
+acestream://d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/a2812472-b6fe-408f-9ce7-f5fa732252ed/402545958015211.png?to=crop&type=webp&r=540x405&q=85", [POL] Sport Klub 
+acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/4929c7f5-082c-4920-89e0-c24b305f8f2a/402545313014211.png?to=crop&type=webp&r=540x405&q=85", [POL] Canal plus sport 1 
 Acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
 #EXTINF:-1 tvg-logo="https://cdn131.picsart.com/0f213d6c-36ba-48ba-b6f2-8fd9edc7f4f3/402545626005211.png?to=crop&type=webp&r=540x405&q=85", [POL] Canal plus sport 3 
 Acestream://3e87464ed8c42ed14464461ea08860a3040a8944
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/0f213d6c-36ba-48ba-b6f2-8fd9edc7f4f3/402545626005211.png?to=crop&type=webp&r=540x405&q=85", [POL] Canal plus sport 5 
+acestream://5f595b1bbade5e7c915d99f90645f4c30d4ba540
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png", [POL] Eleven Sports 1
+acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png", [POL] Eleven Sports 2
+acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png", [POL] Eleven Sports 3
+acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Setanta_Sports.svg", [UKR] Setanta Sports 1
+acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Setanta_Sports.svg", [UKR] Setanta Sports 1 (2)  
+acestream://75594806667040420dee6ed57926101d702566e8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Setanta_Sports.svg", [UKR] Setanta Sports 1 (3) 
+acestream://94adcdc5a9de993dd11c6d648275cfeb2be6715b
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Setanta_Sports.svg", [UKR] Setanta Sports +  
+acestream://0528a1cecd81efd3ec72f49bd32fa847bc924abf
+
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/798b6224-9cb4-42ee-9f4d-3c966a311c1a/402545229009211.png?to=crop&type=webp&r=540x405&q=85", [RUS] Матч! Премьер HD
+Acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/798b6224-9cb4-42ee-9f4d-3c966a311c1a/402545229009211.png?to=crop&type=webp&r=540x405&q=85", [RUS] Матч! Премьер HD (2)
+Acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/798b6224-9cb4-42ee-9f4d-3c966a311c1a/402545229009211.png?to=crop&type=webp&r=540x405&q=85", [RUS] Матч! Премьер HD (3)
+acestream://77fd6e894eba1957177c0f8faa48ff851b3ffbd5
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/798b6224-9cb4-42ee-9f4d-3c966a311c1a/402545229009211.png?to=crop&type=webp&r=540x405&q=85", [RUS] Матч! Премьер HD (4)
+acestream://b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/798b6224-9cb4-42ee-9f4d-3c966a311c1a/402545229009211.png?to=crop&type=webp&r=540x405&q=85", [RUS] Матч! Премьер HD (5)
+acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/798b6224-9cb4-42ee-9f4d-3c966a311c1a/402545229009211.png?to=crop&type=webp&r=540x405&q=85", [RUS] Матч! Премьер HD 2
+acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/798b6224-9cb4-42ee-9f4d-3c966a311c1a/402545229009211.png?to=crop&type=webp&r=540x405&q=85", [RUS] Pimple TV
+acestream://11b6aa16e978a409504b9e3e9c3b29c56f392bdf
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/798b6224-9cb4-42ee-9f4d-3c966a311c1a/402545229009211.png?to=crop&type=webp&r=540x405&q=85", [RUS] Pimple TV (2)
+acestream://955bc653f090c238b8d933b41d8a66fee1bf7893
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/798b6224-9cb4-42ee-9f4d-3c966a311c1a/402545229009211.png?to=crop&type=webp&r=540x405&q=85", [RUS] Pimple TV (3)
+acestream://11b6aa16e978a409504b9e3e9c3b29c56f392bdf
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/798b6224-9cb4-42ee-9f4d-3c966a311c1a/402545229009211.png?to=crop&type=webp&r=540x405&q=85", [RUS] CTAPT
+acestream://4b129146077c1e357e4ab341448b9fb629f939dc
+
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/ac742b0f-199e-4b13-af37-cbb19642c68a/402544722006211.png?to=crop&type=webp&r=540x405&q=85",  [ROM] Digi Sport 1
+Acestream://5de76e366b44da7f88363a74aa2fa1bef30395fe
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/ac742b0f-199e-4b13-af37-cbb19642c68a/402544722006211.png?to=crop&type=webp&r=540x405&q=85",  [ROM] Digi Sport 1 (2)
+acestream://51cee9d0b29dbd9104e9a3971fd2569419eab159
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/bb88d9da-253d-4ebd-80d9-f2edb51a9180/402544847012211.png?to=crop&type=webp&r=540x405&q=85", [ROM] Digi Sport 3
+Acestream://d6902382a5cdbf82534d7364fbb5742d51eae602
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/bb88d9da-253d-4ebd-80d9-f2edb51a9180/402544847012211.png?to=crop&type=webp&r=540x405&q=85", [ROM] Digi Sport 3
+acestream://b9dc6fdeaca5a5f4275db80d68536e023ce4ea06
 
 #EXTINF:-1 tvg-logo="https://cdn131.picsart.com/0e0f1bb3-de7e-4fb2-9090-644b36bcd095/402084248030211.png?to=crop&type=webp&r=540x405&q=85", ESPN URU
 acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
@@ -278,27 +329,13 @@ acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
 #EXTINF:-1 tvg-logo="https://cdn131.picsart.com/0e0f1bb3-de7e-4fb2-9090-644b36bcd095/402084248030211.png?to=crop&type=webp&r=540x405&q=85", ESPN ARG 3
 acestream://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/d2212bf5-0999-4b88-a137-e70f998eeada/402020668010211.png?to=crop&type=webp&r=540x405&q=85", beIN SPORT ñ
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/d2212bf5-0999-4b88-a137-e70f998eeada/402020668010211.png?to=crop&type=webp&r=540x405&q=85", [USA] beIN SPORT ñ
 acestream://c0f38f2a4b891db823edb45e64f1191655526e5e
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/3890e6d3-e4fc-495a-8026-430c6920f0e7/402020467013211.png?to=crop&type=webp&r=540x405&q=85", NBA TV
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/3890e6d3-e4fc-495a-8026-430c6920f0e7/402020467013211.png?to=crop&type=webp&r=540x405&q=85", [USA] NBA TV
 Acestream://6ba718a6f5a638e2ae15de6904ea2fa553895856
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png", TUDN
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png", [USA] TUDN
 acestream://958a228fbcdac80a19cd3d88ef402c0e50ccca87
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/redbulltv.png", FOX Sport
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/redbulltv.png", [USA] FOX Sport
 acestream://c9c062941fbecb16ce29437f346ea7177d720898
-
-
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/ac742b0f-199e-4b13-af37-cbb19642c68a/402544722006211.png?to=crop&type=webp&r=540x405&q=85", Digi Sport 1 ROM
-Acestream://5de76e366b44da7f88363a74aa2fa1bef30395fe
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/bb88d9da-253d-4ebd-80d9-f2edb51a9180/402544847012211.png?to=crop&type=webp&r=540x405&q=85", Digi Sport 3 ROM
-Acestream://d6902382a5cdbf82534d7364fbb5742d51eae602
-
-
-
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/798b6224-9cb4-42ee-9f4d-3c966a311c1a/402545229009211.png?to=crop&type=webp&r=540x405&q=85", Матч! Премьер HD
-Acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/798b6224-9cb4-42ee-9f4d-3c966a311c1a/402545229009211.png?to=crop&type=webp&r=540x405&q=85", Матч! Премьер HD (2)
-Acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
-
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/9a60cffa-8ae4-447c-aabb-5d803ac67b09/402545934012211.png?to=crop&type=webp&r=540x405&q=85", Bein Sport FRA
-acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/0e0f1bb3-de7e-4fb2-9090-644b36bcd095/402084248030211.png?to=crop&type=webp&r=540x405&q=85", [USA] ESPN 2
+acestream://664eb5fe460b96941aed633959a845b185cd8394
