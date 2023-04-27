@@ -28,6 +28,8 @@ acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png", [ ESP] DAZN LaLiga - 720
 acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png", [ ESP] DAZN LaLiga 2
+acestream://93d663e92a93845b11c9831885646fa39ba1ed66
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/f1.png", [ ESP] DAZN F1 - 1080
 acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
