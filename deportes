@@ -239,6 +239,16 @@ acestream://edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/9a60cffa-8ae4-447c-aabb-5d803ac67b09/402545934012211.png?to=crop&type=webp&r=540x405&q=85", [FRA] Bein Sport 3
 acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/seriea2019.png", [ITA] La 7d
+acestream://f910f4c0374a08379c464c1db49028308557c0eb
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/seriea2019.png", [ITA] La 7
+acestream://48e0f30ccda711ff2894cbc52c6df89ffd05fe22
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/seriea2019.png", [ITA] ReteVeneta
+acestream://70ba597a6e0f4c6a5868331b11cea6e459ac9f22
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/seriea2019.png", [ITA] Videolina
+acestream://277503b17daeb2bbea26bfe27dc9ffc33c0cb251
+
+
 #EXTINF:-1 tvg-logo="https://cdn131.picsart.com/d4d240bf-af32-4b68-9fc6-900c112dd2ce/402543242002211.png?to=crop&type=webp&r=540x405&q=85", [ENG] BT Sport 1
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 #EXTINF:-1 tvg-logo="https://cdn131.picsart.com/15397664-5ab9-4477-b1ca-7513e921e3cf/402543219001211.png?to=crop&type=webp&r=540x405&q=85", [ENG] BT Sport 2
