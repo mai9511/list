@@ -174,8 +174,6 @@ Acestream://
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mev.png", [ ESP] Ellas #V
 acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/meventos.png", [ ESP] Eventos de Movistar
-acestream://0a94ca1f63e144862248f4f00ea9044f5a5d0971
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golplay.png", [ ESP] Gol Play - 1080
 acestream://d4627f7b6b237a8556819445b3283d866caceca2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/btv.png", [ ESP] Barça TV 720
