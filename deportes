@@ -172,8 +172,6 @@ acestream://c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png", [ ESP] Eurosport 2 - 720
 Acestream://
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mev.png", [ ESP] Ellas #V
-acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golplay.png", [ ESP] Gol Play - 1080
 acestream://d4627f7b6b237a8556819445b3283d866caceca2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/btv.png", [ ESP] Barça TV 720
@@ -344,7 +342,5 @@ acestream://c0f38f2a4b891db823edb45e64f1191655526e5e
 Acestream://6ba718a6f5a638e2ae15de6904ea2fa553895856
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png", [USA] TUDN
 acestream://958a228fbcdac80a19cd3d88ef402c0e50ccca87
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/redbulltv.png", [USA] FOX Sport
-acestream://c9c062941fbecb16ce29437f346ea7177d720898
 #EXTINF:-1 tvg-logo="https://cdn131.picsart.com/0e0f1bb3-de7e-4fb2-9090-644b36bcd095/402084248030211.png?to=crop&type=webp&r=540x405&q=85", [USA] ESPN 2
 acestream://664eb5fe460b96941aed633959a845b185cd8394
