@@ -9,6 +9,8 @@ acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png", [ ESP] #Vamos - 720
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png", [ ESP] #Supercopa
+acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png", [ ESP] La Liga - 1080
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
