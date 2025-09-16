@@ -131,33 +131,33 @@ acestream://2b51710cee513e8939785fa3e7980f32d4e0415f
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png", [ ESP] Liga de Campeones - 1080 (4)
 acestream://2b51710cee513e8939785fa3e7980f32d4e0415f
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png", [ ESP] Liga de Campeones - 1080 (5)
-e572a5178ff72eed7d1d751a18b4b3419699f370
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png", [ ESP] Liga de Campeones - 1080 (6)
-bb5a8bf7752e978460ee1710e5e8950a5c9e1f99 
+acestream://bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png", [ ESP] Liga de Campeones - 1080 (7)
+acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png", [ ESP] Liga de campeones - 720
 acestream://8edb264520569b2280c5e86b2dc734e120032903
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png", [ ESP] Liga de campeones - 720 (2)
+acestream://b028202ff335911db3118bceac027df3e8ef6c32
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png", [ ESP] Liga de Campeones 02 - 1080
 acestream://e7d8cae7f693fe46e89bbf74820caac9ffb32a30
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png", [ ESP] Liga de Campeones 02 - 1080 (2)
-
+acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png", [ ESP] Liga de Campeones 02 - 1080 (3)
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png", [ ESP] Liga de Campeones 02 - 1080 (4)
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png", [ ESP] Liga de Campeones 02 - 1080 (5)
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png", [ ESP] Liga de Campeones 02 - 1080 (6)
-
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png", [ ESP] Liga de Campeones 02 - 720
-acestream://abdf9058786a48623d0de51a3adb414ae10b6e72
+acestream://38f7b2044e549df2039ff26cefa6f9a60c854d5e
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png", [ ESP] Liga de Campeones 03 - 1080
 acestream://2b5129adc57d43790634d796fe3468b9fd061259
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png", [ ESP] Liga de Campeones 03 - 1080 (2)
+acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png", [ ESP] Liga de Campeones 03 - 720
 acestream://0b348cc1ae499e810729661878764a0fab88ab69
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc4.png", [ ESP] Liga de Campeones 04 - 1080
-
+acestream://77998f8161373611ff6b348e7eda5b4e97d3ec29
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc4.png, [ ESP] Liga de Campeones 04 - 720
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc5.png", [ ESP] Liga de Campeones 05 - 1080
